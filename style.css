@@ -1,0 +1,122 @@
+body{
+	background-image: url(newlaptop.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+h1{	position: absolute;
+	top: 0%;
+	left: 25%;
+	font-family: Arial;
+	font-size: 5em;
+	color: orange;
+}
+.dropdown-menu{
+	background-color: lightblue;
+}
+.dropdown-item{
+	border:1px solid;
+	border-color: lightblue;
+	color: white;
+	background-color: lightblue;
+	color: black;
+}
+#dropdownMenuButton{
+	border:1px solid;
+	border-color: lightblue;
+	background-color: lightblue;
+	color: black;
+}
+.dropdown-item:hover{
+	background-color: lightblue;
+	color: black;
+}
+p{
+	color: white;
+	position: absolute;
+	bottom:53%;
+	right: 66,5%;
+	font-size: 30px;
+}
+.card-group{
+	border-radius: 8px;
+	border:1px solid;
+	position: absolute;
+	bottom: 29%;
+	right: 71,5%;
+}
+.card-img-top1{
+	width: 150px;
+}
+.card-img-top2{
+	width: 150px;
+}
+.card-img-top3{
+	width: 150px;
+}
+.card1{
+	display: flex;
+}
+.card2{
+	display: flex;
+}
+.card3{
+	display: flex;
+}
+.a1{
+	position: absolute;
+	font-size: 25px;
+	bottom: -30%;
+	right: 71,5%;
+}
+.a2{
+	position: absolute;
+	font-size: 25px;
+	bottom: -30%;
+	right: 35%;
+}
+.a3{
+	position: absolute;
+	font-size: 25px;
+	bottom: -30%;
+	right: 0%;
+}
+
+a:hover{
+	color: white;
+	text-decoration: none;
+}
+.p1{
+	color: orange;
+	font-size: 3em;
+}
+.p2{
+	color: orange;
+	font-size: 3em;
+	top: 30%;
+}
+.p3{
+	color: orange;
+	font-size: 3em;
+}
+.btn-primary{
+	border:1px solid;
+	border-color: green !important;
+	border-radius: 8px;
+	width: 1600px;
+	height: 150px;
+	position: absolute;
+	bottom: 0%;
+	left: 0%;
+	background-color: green !important;
+	text-shadow: 6px 15px 8px blue;
+	font-size: 5em;
+}
+.btn-primary:hover{
+	background-color: black !important;
+	border-color: black !important;
+}
+.sub{
+	color: white;
+	text-decoration: none;
+}
